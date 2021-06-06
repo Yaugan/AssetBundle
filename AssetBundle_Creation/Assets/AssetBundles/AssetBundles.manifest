@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 2010073918
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: capsule_bundle
+      Dependencies: {}
